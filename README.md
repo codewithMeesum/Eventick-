@@ -6,10 +6,6 @@
 
 A pixel-perfect, high-fidelity frontend replica of the **Eventick** ticket booking website. This project demonstrates advanced usage of the **Bootstrap 5** framework combined with custom CSS to achieve a premium, modern aesthetic exact to the original design specifications.
 
-## 📸 Preview
-
-*(Replace this line with a screenshot of your website, e.g., `![Screenshot](screenshot.png)`) - or delete if you don't have one yet.*
-
 ## ✨ Key Features
 
 * **Pixel-Perfect Design:** meticulously crafted to match the original design mockups with 100% accuracy.
