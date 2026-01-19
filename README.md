@@ -27,6 +27,9 @@ This project was built using the following technologies:
 * **FontAwesome 6.4.0:** For UI icons (social media, arrows).
 * **Google Fonts:** Utilizes the **DM Sans** typeface for typography accuracy.
 
+## Live Demo 
+https://eventickk.netlify.app/
+
 ## 📂 Project Structure
 
 To run this project correctly, ensure your folder structure looks like this:
